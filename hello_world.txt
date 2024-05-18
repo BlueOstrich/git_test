@@ -1,1 +1,4 @@
 hello!
+git commit
+git config --global core.editor "code --wait"
+hello mouthafucka
